@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rafa542
 
-I enjoy programming, data science, writing, journalism, and soccer!
+I enjoy programming, data science, writing, and soccer!
 
 This is my portfolio showcasing some of my favorite side projects. Pleas reach out if you have any questions or ideas to work on :)
 
